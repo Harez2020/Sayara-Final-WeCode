@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>183239926455-tam4qjd312c10lb6l89ile7vvi6g8jce.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.183239926455-tam4qjd312c10lb6l89ile7vvi6g8jce</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDHuz_ZDszWP8K6l3oUp2-A7tk-jCHM8hI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>183239926455</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sayaranew</string>
+	<key>PROJECT_ID</key>
+	<string>sayaranew-11517</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sayaranew-11517.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:183239926455:ios:84f736115e2798d9f82332</string>
+</dict>
+</plist>

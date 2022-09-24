@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183239926455",
+    "project_id": "sayaranew-11517",
+    "storage_bucket": "sayaranew-11517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183239926455:android:8a6406d8b2e43937f82332",
+        "android_client_info": {
+          "package_name": "com.example.sayaranew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183239926455-o1tg570mnq7bhaek34dmqil53utfujdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI1O2RDCNaNaJY2dn0eeA69jvY8rULadI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183239926455-o1tg570mnq7bhaek34dmqil53utfujdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
